@@ -12,7 +12,7 @@ I’m a third year undergraduate student from [SGY](https://sgy.ustc.edu.cn/main
 
 Interest
 -----
-I am a fan of classical music, especially Russian composers from the Romantic period such as Tchaikovsky, Rachmaninoff and later Shostakovich and so on. As for the taste of literature, I am interested in the works of Dostoevsky, Yukio Mishima, Yasunari Kawabata and others. In addition, I have also studied modern and contemporary Chinese literature and have studied courses on the history of contemporary Chinese literature. In the field of philosophy, I learned a little bit of phenomenology and existentialism, and I think it was very helpful for my study in physics. On top of that, I have two cats.
+I am a fan of classical music, especially Russian composers from the Romantic period such as Tchaikovsky, Rachmaninoff and later Shostakovich and so on. As for the taste of literature, I am interested in the works of Dostoevsky, Yukio Mishima, Yasunari Kawabata and others. In addition, I have also studied modern and contemporary Chinese literature and have studied courses on the history of contemporary Chinese literature. In the field of philosophy, I learned a little bit of phenomenology and existentialism, and I think it was very helpful for my study in physics. On top of that, I have two cats and they are so cute.
 
 Academic
 -----
