@@ -17,19 +17,11 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Winter 2024-Winter 2025, College Student Research Program
+  * Heat Kernel Method and Quantum Gravity
+* Summer 2024-Summer 2025, Xinhe Scholar
+  * Blackhole Thermodynamics and Riemann Geometry
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-  
+Work experience
+======
+*  Autumn 2024, Teaching Assistant, Theoretical Mechanics, USTC
