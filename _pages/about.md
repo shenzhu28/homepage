@@ -8,7 +8,7 @@ redirect_from:
 ---
 About me
 -----
-I’m a third year undergraduate student from SGY, USTC. I major in theoretical physics and minor in fundamental mathematics. My research interest includes geometry and quantum gravity. Besides, I have studied some phenomenological plasma physics.
+I’m a third year undergraduate student from [SGY](https://sgy.ustc.edu.cn/main.htm), [USTC](https://www.ustc.edu.cn/). I major in theoretical physics and minor in fundamental mathematics. My research interest includes geometry and quantum gravity. Besides, I have studied some phenomenological plasma physics.
 
 Interest
 -----
@@ -16,4 +16,4 @@ I am a fan of classical music, especially Russian composers from the Romantic pe
 
 Academic
 -----
-I believe physics is the most charming and appealing science or philosophy in the world, and mathematics is how we describe a phenomenon in physics, thus I would like to study both of them. The research I carried out under the guidance of Prof. Bing Wang (at Institute of Geometry and Physics) mainly concerned quantum gravity and modern geometric analysis.
+I believe physics is the most charming and appealing science or philosophy in the world, and mathematics is how we describe a phenomenon in physics, thus I would like to study both of them. The research I carried out under the guidance of Prof. Bing Wang (at [Institute of Geometry and Physics](http://igp.ustc.edu.cn/main.htm)) mainly concerned quantum gravity and modern geometric analysis.
