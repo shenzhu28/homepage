@@ -16,4 +16,4 @@ I am a fan of classical music, especially Russian composers from the Romantic pe
 
 Academic
 -----
-I believe physics is the most charming and appealing science or philosophy in the world, and mathematics is how we describe a phenomenon in physics, thus I would like to study both of them. The research I carried out under the guidance of Prof. Bing Wang (at [Institute of Geometry and Physics](http://igp.ustc.edu.cn/main.htm)) mainly concerned quantum gravity and modern geometric analysis.
+I believe physics is the most charming and appealing science or philosophy in the world, and mathematics is how we describe a phenomenon in physics, thus I would like to study both of them. The research I carried out under the guidance of Prof. Bing Wang (at [Institute of Geometry and Physics](http://igp.ustc.edu.cn/main.htm)) is mainly on quantum gravity and modern geometric analysis.
