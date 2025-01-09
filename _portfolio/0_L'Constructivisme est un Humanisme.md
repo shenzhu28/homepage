@@ -1,4 +1,4 @@
---
+---
 title: "L'Constructivisme est un Humanisme"
 excerpt: "This is an article I wrote to celebrate the coming twenty."
 collection: portfolio
