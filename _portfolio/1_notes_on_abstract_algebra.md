@@ -1,8 +1,8 @@
 ---
 title: "Notes on Abstract Algebra-For jxy"
-excerpt: "This is a brief note on abstract for my lovely jxy."
+excerpt: "This is a brief note on abstract for the lovely jxy."
 collection: portfolio
-paperurl: 'https://shenzhu28.github.io/homepage/files/Notes on Vector Fields.pdf'
+paperurl: 'https://shenzhu28.github.io/homepage/files/Notes on Abstract Algebra.pdf'
 ---
 
 This is a brief note on abstract for my lovely jxy.
